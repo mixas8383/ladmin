@@ -1,0 +1,12 @@
+{
+    "name": "mixas/ladmin",
+    "description": "laravel admin panel",
+	"authors": [
+			{
+				"name": "Mixas",
+				"email": "mixas.8383@gmail.com"
+			}
+		],
+	"minimum-stability": "dev",
+    "require": {}
+}
